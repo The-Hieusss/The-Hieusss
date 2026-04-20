@@ -20,7 +20,7 @@
 
 ## About Me
 
-- Building **[Dreamscape](https://github.com/The-Hieusss/dreamscape)**
+- Building **[Mr. T](https://github.com/The-Hieusss/mr-t-ai)**
 - Learning more about **data modeling** and system design
 - Looking to collaborate on **ML/AI infrastructure**
 - Ask me about **frontend engineering, UI, and product experience**
