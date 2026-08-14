@@ -20,7 +20,7 @@
 
 ## About Me
 
-- Building **[Mr. T](https://github.com/The-Hieusss/mr-t-ai)**
+- Building **[Canopy Companion](https://github.com/The-Hieusss/canopy-companion)**
 - Learning more about **data modeling** and system design
 - Looking to collaborate on **ML/AI infrastructure**
 - Ask me about **frontend engineering, UI, and product experience**
