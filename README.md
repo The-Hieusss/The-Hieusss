@@ -48,17 +48,6 @@ A floating assistant that sits above every app on your Mac. Click her, press **�
 | **[Canopy Companion](https://github.com/The-Hieusss/canopy-companion)** | Shade-aware walking route planner that finds cooler, tree-covered paths | React, Node.js, Express, Gemini | [Live](https://canopy-companion.vercel.app/) · [Code](https://github.com/The-Hieusss/canopy-companion) |
 | **[Mr. T AI](https://github.com/The-Hieusss/mr-t-ai)** | AI fleet copilot for trucking dispatch, alerts and cost insights | Python, FastAPI, React, Gemini | [Code](https://github.com/The-Hieusss/mr-t-ai) |
 | **[Dreamscape](https://github.com/The-Hieusss/dreamscape)** | Describe a scene and Gemini builds it into an explorable 3D world | React, Three.js, Gemini, Supabase | [Live](https://dreamscape-alpha-lake.vercel.app/) · [Code](https://github.com/The-Hieusss/dreamscape) |
-| **[Jobless](https://github.com/The-Hieusss/jobless-demo)** | A Tinder for jobs: a two-sided matching app for students and recruiters | React, TypeScript, Supabase | [Live](https://jobless-demo.vercel.app/) · [Code](https://github.com/The-Hieusss/jobless-demo) |
-| **[Google Flight](https://github.com/The-Hieusss/GoogleFlight)** | A recreation of Google Flights' search with date pickers, filters and an interactive map | React, TypeScript, Bun | [Live](https://google-flight.vercel.app/) · [Code](https://github.com/The-Hieusss/GoogleFlight) |
-
-## Experience
-
-| Role | Company | When |
-| --- | --- | --- |
-| Software Engineer Intern | Rocket | Present |
-| Software Engineer Intern | MoveCars | Jan 2025 – May 2025 |
-| Software Engineer Intern | Vietnam Airlines | Jun 2024 – Aug 2024 |
-| Software Engineer Intern | Vietnam Export Import Commercial Joint Stock Bank (Eximbank) | Jun 2024 – Aug 2024 |
 
 ## Tech I Work With
 
